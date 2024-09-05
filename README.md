@@ -27,10 +27,7 @@ Here are a few screenshots of RozgaarCenter in action:
 ### ShopNow
 ![image](https://github.com/user-attachments/assets/fea253a7-8a62-4a58-a002-2d0d706802fb)
 
-### 
-![image](https://github.com/user-attachments/assets/ab10edc8-5bc3-491f-84c8-4e06cf0ad6ad)
-
-###
+### AdmitCard
 ![image](https://github.com/user-attachments/assets/b0f3fe8d-b223-4497-9089-7a48eacf2aa9)
 
 ### Footer
