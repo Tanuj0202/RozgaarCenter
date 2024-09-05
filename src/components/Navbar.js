@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <div className='bg-sky-900 h-14 p-4 sticky top-0 left-0 right-0 shadow-2xl shadow-black'>
      <nav className='flex items-center justify-between lg:px-10 '>
-      <a href='/'><div className='text-white font-bold lg:text-2xl flex'><div id='kite'>🪁</div>Rozgaar Center</div></a>
+      <Link to='/'><div className='text-white font-bold lg:text-2xl flex'><div id='kite'>🪁</div>Rozgaar Center</div></Link>
       <div>
       <ul className='hidden lg:flex gap-6 text-white font-medium text-lg'>
         <li><Link to='/admitcard'>Admit Card</Link></li>
