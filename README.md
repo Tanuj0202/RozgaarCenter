@@ -30,9 +30,6 @@ Here are a few screenshots of RozgaarCenter in action:
 ### AdmitCard
 ![image](https://github.com/user-attachments/assets/b0f3fe8d-b223-4497-9089-7a48eacf2aa9)
 
-### Footer
-![image](https://github.com/user-attachments/assets/39ff3103-a83f-426e-a0d2-3b7518605795)
-
 
 
 
