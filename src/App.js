@@ -30,7 +30,7 @@ function App() {
        
       
       <Routes>
-        <Route path='/' element={<Home/>}/>
+        <Route path='/rcproject/' element={<Home/>}/>
         <Route path='/admitcard' element={<Admitcard name="Admit Card" heading="RC Admit-Card"/>}/>    
         <Route path='/latestjobs' element={<Admitcard name="Latest Jobs" heading="RC Latest-Jobs"/>}/>    
         <Route path='/results' element={<Admitcard name="Results" heading="RC Results"/>}/>    
