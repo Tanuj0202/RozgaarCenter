@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rcproject/static/css/main.4fe431bd.css",
-    "main.js": "/rcproject/static/js/main.ba4b5233.js",
-    "static/js/453.785134cd.chunk.js": "/rcproject/static/js/453.785134cd.chunk.js",
-    "index.html": "/rcproject/index.html",
-    "main.4fe431bd.css.map": "/rcproject/static/css/main.4fe431bd.css.map",
-    "main.ba4b5233.js.map": "/rcproject/static/js/main.ba4b5233.js.map",
-    "453.785134cd.chunk.js.map": "/rcproject/static/js/453.785134cd.chunk.js.map"
+    "main.css": "/RozgaarCenter/static/css/main.4fe431bd.css",
+    "main.js": "/RozgaarCenter/static/js/main.b5573b1f.js",
+    "static/js/453.785134cd.chunk.js": "/RozgaarCenter/static/js/453.785134cd.chunk.js",
+    "index.html": "/RozgaarCenter/index.html",
+    "main.4fe431bd.css.map": "/RozgaarCenter/static/css/main.4fe431bd.css.map",
+    "main.b5573b1f.js.map": "/RozgaarCenter/static/js/main.b5573b1f.js.map",
+    "453.785134cd.chunk.js.map": "/RozgaarCenter/static/js/453.785134cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fe431bd.css",
-    "static/js/main.ba4b5233.js"
+    "static/js/main.b5573b1f.js"
   ]
 }
