@@ -16,6 +16,31 @@ We aim to simplify job searching by offering a platform tailored to diverse need
 Here are a few screenshots of RozgaarCenter in action:
 
 ### Homepage
+![image](https://github.com/user-attachments/assets/c8a1ef6f-c859-4e58-8316-44223137bf54)
+
+### Signup
+![image](https://github.com/user-attachments/assets/7bf585d8-4e5a-40a8-a926-a244602c0295)
+
+### Login
+![image](https://github.com/user-attachments/assets/e7013d40-5ec9-4ada-934c-cb41f9eaabf4)
+
+### ShopNow
+![image](https://github.com/user-attachments/assets/fea253a7-8a62-4a58-a002-2d0d706802fb)
+
+### 
+![image](https://github.com/user-attachments/assets/ab10edc8-5bc3-491f-84c8-4e06cf0ad6ad)
+
+###
+![image](https://github.com/user-attachments/assets/b0f3fe8d-b223-4497-9089-7a48eacf2aa9)
+
+### Footer
+![image](https://github.com/user-attachments/assets/39ff3103-a83f-426e-a0d2-3b7518605795)
+
+
+
+
+
+
 
 
 
