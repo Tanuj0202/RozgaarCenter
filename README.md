@@ -1,16 +1,25 @@
-# Mission:
+# RozgaarCenter
+
+## Mission
 We aim to simplify job searching by offering a platform tailored to diverse needs, empowering individuals to discover suitable employment and assisting employers in finding qualified candidates.
 
-# Key Features:
-1. Download Admit Cards: Access and download admit cards for exams.
-2. Search for Latest Jobs: Stay updated with new job postings.
-3. Check Syllabus: Review exam syllabi for better preparation.
-4. View Results & Answer Keys: Quickly check results and answer keys for exams.
+## Key Features
+- **Download Admit Cards:** Users can access and download admit cards for various exams.
+- **Search for Latest Jobs:** Stay updated with the latest job postings across different sectors.
+- **Check Syllabus:** Review the syllabi for upcoming exams to better prepare.
+- **View Results & Answer Keys:** Quickly access exam results and answer keys.
 
-# RozgaarCenter Link : 
-(https://tanuj0202.github.io/RozgaarCenter/)
+## Quick Links
+- **RozgaarCenter:** [Visit RozgaarCenter](https://tanuj0202.github.io/RozgaarCenter/)
 
-![img1](image.png)
+## Screenshots
+Here are a few screenshots of RozgaarCenter in action:
 
-![img2](image-1.png)
+### Homepage
+
+
+
+
+
+
 
