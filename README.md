@@ -16,7 +16,7 @@ We aim to simplify job searching by offering a platform tailored to diverse need
 Here are a few screenshots of RozgaarCenter in action:
 
 ### Homepage
-![image](https://github.com/user-attachments/assets/c8a1ef6f-c859-4e58-8316-44223137bf54)
+![RozgaarCenter Homepage](https://github.com/tanuj0202/RozgaarCenter/blob/main/homepage.png)
 
 ### Signup
 ![image](https://github.com/user-attachments/assets/7bf585d8-4e5a-40a8-a926-a244602c0295)
