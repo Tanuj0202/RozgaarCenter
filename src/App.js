@@ -7,7 +7,7 @@ import { far } from '@fortawesome/free-regular-svg-icons'
 
 // import Info from './components/Info';
 
-import {BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Routes, Route, HashRouter } from 'react-router-dom';
 import Admitcard from './components/Admitcard';
 import Home from './components/Home';
 import AboutUs from './components/pages/AboutUs';
@@ -25,12 +25,12 @@ import Shop from './components/pages/Shop';
 function App() {
   return (
     <div className='min-h-screen'>
-      <BrowserRouter>
+      <HashRouter>
       <Navbar/>
        
       
       <Routes>
-        <Route path='/rcproject/' element={<Home/>}/>
+        <Route path='/' element={<Home/>}/>
         <Route path='/admitcard' element={<Admitcard name="Admit Card" heading="RC Admit-Card"/>}/>    
         <Route path='/latestjobs' element={<Admitcard name="Latest Jobs" heading="RC Latest-Jobs"/>}/>    
         <Route path='/results' element={<Admitcard name="Results" heading="RC Results"/>}/>    
@@ -46,7 +46,7 @@ function App() {
         {/* <Route path='/admitcard' element={<Cards/>}/>     */}
       </Routes>
       {/* <Info/> */}
-      </BrowserRouter>
+      </HashRouter>
       
       
     </div>
